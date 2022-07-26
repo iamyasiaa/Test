@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FormTextInputLayout" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">64dp</item>
+        <item name="android:layout_marginTop">85dp</item>
+        <item name="android:layout_marginEnd">64dp</item>
+        <item name="android:hint">Hiiiii</item>
+
+    </style>
+
+    <style name="Theme.FormInputEditText" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">60dp</item>
+        <item name="android:backgroundTint">#B0E91E63</item>
+
+    </style>
+</resources>
